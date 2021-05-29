@@ -1,0 +1,20 @@
+{
+  "name": "momentoii",
+  "version": "1.0.0",
+  "description": "ejercicio para el momento II",
+  "main": "taller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node taller.js"
+  },
+  "author": "Juan Camilo Tamayo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1",
+    "mongoose": "^5.12.9",
+    "yargs": "^16.2.0"
+  }
+}
